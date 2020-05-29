@@ -4,8 +4,9 @@ EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and 
 * Developer organization:
 1. ISEC laboratory, School of Computer Science and Technology, Anhui University, Hefei, China
 2. School of Information Technology, Deakin University, Geelong, Australia
-
-* Developer member: Xiao Liu, Xuejun Li, Jia Xu, Lina Gong, Han Gao.
+3. School of Software and Electrical Engineering, Swinburne University of Technology, Melbourne, Australia
+4. School of Software and Electrical Engineering, Swinburne University of Technology, Melbourne, Australia
+* Developer member: Xiao Liu, Xuejun Li, Lei Zhang, Yun Yang, Jia Xu, Lina Gong, Han Gao
 
 # Full paper access
 Access from <A href="https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing">https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing</A>
