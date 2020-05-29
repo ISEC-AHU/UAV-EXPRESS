@@ -25,13 +25,13 @@ Please check the `improv` branch for latest changes. Master branch has been left
 *	Pull the contents of the repository to your machine.
 * git pull origin master
 *	Run the example files (e.g.device_expr.py; edge_expr.py) to get started.
-* Development description
+  Development description
 *	IDE: pycharm2019
 *	programming language:python 3.6; TensorFlow1.12.0
 *	video input: DJ Mavic drones capture video at 1080P
-*	configuration:
-Intel Core i5-4210M CPU，8GB DDR3L RAM(UAV);
-Intel Core i7-9750H CPU，16GB DDR4 RAM，NVIDIA GeForce GTX 1660Ti(edge sevser)
+ 	configuration:
+* Intel Core i5-4210M CPU，8GB DDR3L RAM(UAV);
+* Intel Core i7-9750H CPU，16GB DDR4 RAM，NVIDIA GeForce GTX 1660Ti(edge sevser)
 
 2. The data resource management module which integrates the technology of Blockchain and InterPlanetary File System (IPFS);
 * Write and debug the required smart contracts in the ethereum remix- IDE;
@@ -41,7 +41,7 @@ Intel Core i7-9750H CPU，16GB DDR4 RAM，NVIDIA GeForce GTX 1660Ti(edge sevser)
 * Start MongoDB and IPFS;
 * Pre-set the account information of the delivery station administrator, airspace management department, UAV and recipients in the MongoDB database, and pre-set the order information to be delivered;
 * To run the project, do the followings in order: select the project, right-click, click “run as”, click “run on Server”, and click “Finish”.
-* Development description
+  Development description
 * Eclipse 2018
 * Ganache CLI v6.9.1
 * Ubuntu16.04
