@@ -16,7 +16,7 @@ Please check the `improv` branch for latest changes. Master branch has been left
 
 ## How to run UAV-EXPRESS ?
 
-* The UAV-EXPRESS are divided into two parts:
+* The UAV-EXPRESS is divided into two parts:
 1. The energy-efficient computation management mechanism by pose and face recognition application;
 *	Create a Java project in Eclipse.
 *	Inside the project directory, initialize an empty Git repository with the following command
