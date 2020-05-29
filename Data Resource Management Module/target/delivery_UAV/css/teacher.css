@@ -1,0 +1,301 @@
+@CHARSET "UTF-8";
+
+/* addTeacher.jsp,edit.jsp */
+table.addteacher{           /* 整个表格 */
+	font-size : 15px; 
+	color :black; 
+	text-align : left;
+	width:300px;
+	position: absolute;
+	left:450px;
+	top:180px;
+}
+
+tr.addteacher1{
+	position: absolute;
+	left:0px;
+	top:0px;
+}
+
+th.addteacher1{          /* 编号 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:0px;
+}
+
+input.number{            /* 编号文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:0px;
+}
+
+tr.addteacher2{
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:20px;
+}
+
+th.addteacher2{           /* 姓名 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:20px;
+}
+
+input.name{             /* 姓名文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:20px;
+}
+
+tr.addteacher3{
+	position: absolute;
+	left:0px;
+	top:40px;
+}
+
+th.addteacher3{          /* 密码*/
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:40px;
+}
+
+input.password{            /* 密码文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:40px;
+}
+
+tr.addteacher4{            
+	position: absolute;
+	left:0px;
+	top:60px;
+}
+
+th.addteacher4{                 /* 年龄 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:60px;
+}
+
+input.age{               /* 年龄文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:60px;
+}
+
+tr.addteacher5{
+	position: absolute;
+	left:0px;
+	top:80px;
+}
+
+th.addteacher5{           /* 性别 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:80px;
+}
+
+td.addteacher5{            /* 性别按钮 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:80px;
+}
+
+input.sex{
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:80px;
+}
+tr.addteacher6{
+	position: absolute;
+	left:0px;
+	top:100px;
+}
+
+th.addteacher6{           /* 身份证号 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:100px;
+}
+
+input.cid{              /* 身份证号文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:100px;
+}
+
+tr.addteacher7{
+	position: absolute;
+	left:0px;
+	top:120px;
+}
+
+th.addteacher7{         /* 联系电话 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:120px;
+}
+
+input.phone{          /* 联系电话文本框 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:120px;
+}
+
+tr.addteacher8{
+	position: absolute;
+	left:0px;
+	top:140px;
+}
+
+th.addteacher8{           /* 身份 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:140px;
+}
+
+select.select{           /* 身份按钮 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:140px;
+}
+
+tr.addteacher9{
+	position: absolute;
+	left:0px;
+	top:160px;
+}
+
+th.addteacher9{           /* 身份 */
+	width:300px;
+	position: absolute;
+	left:0px;
+	top:160px;
+}
+
+select.select1{           /* 身份按钮 */
+	width:300px;
+	position: absolute;
+	left:80px;
+	top:160px;
+}
+input.submit1{         /* 重置按钮 */
+	position: absolute;
+	left:100px;
+	top:370px;
+}
+
+input.submit{        /* 提交按钮 */
+	position: absolute;
+	left:200px;
+	top:370px;
+}
+
+/* teacherManager.jsp */
+input.t_add{    
+    font-size:15px;
+    font-family: "宋体";
+    font-weight:bolder;
+    text-decoration: underline;
+    color:black;
+    position:absolute;
+    left:330px;    
+    top:160px;
+}
+
+div.t_select{     /* 查询  */
+    font-size:15px;
+    font-family: "宋体";
+    color:black;
+    position:absolute;
+    left:450px;    
+    top:160px;
+}
+
+div.nomessage{     /* 没有教师信息. */
+	font-size:18px;
+    font-family: "宋体";
+    font-weight:bolder;
+	position:absolute;
+    left:540px;    
+    top:300px;
+}
+
+table.t_list {               /* 整个表格的样式 */
+     border-collapse: collapse;  
+     font-family:"宋体";  
+     position:absolute;
+     left:250px;    
+     top:200px;
+     border-right:1px solid #555;        /* 设置边框 */
+     border-bottom:1px solid #555;
+}   
+
+table.t_list1 {               /* 整个表格的样式 */
+     border-collapse: collapse;  
+     font-family:"宋体";  
+     position:absolute;
+     left:450px;    
+     top:200px;
+     border-right:1px solid #555;        /* 设置边框 */
+     border-bottom:1px solid #555;
+}
+
+table.t_list5 {               /* 整个表格的样式 */
+     border-collapse: collapse;  
+     font-family:"宋体";  
+     position:absolute;
+     left:450px;    
+     top:150px;
+     border-right:1px solid #555;        /* 设置边框 */
+     border-bottom:1px solid #555;
+}
+
+tr.t_list1 {  
+	text-align:center;
+     background-color: rgba(0,0,0,0.3);
+     color: #fff;  
+     padding: .65em; 
+     border-radius: 9px 0 0 0; 
+}  
+  
+tr.t_list2 {  
+    padding: .65em; 
+} 
+
+th.t_list1{
+	border-left:1px solid #555;
+   border-top:1px solid #555;  
+   
+}
+
+th.t_list2{    
+	font-weight:normal;
+	text-align: center;
+	border-left:1px solid #555;
+   border-top:1px solid #555;  
+   font-weight:normal;
+}
+
+tbody tr.t_list2:hover {     /* 设置表格行上的立体悬停效果 */
+     background: rgba(0,0,0,0.4);  
+     font-size: 15px;  
+}  

@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>UAV Delivery System based on Mobile Edge Computing and Blockchain</title>
+<link href="css/login.css" rel="stylesheet" rev="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+<div id="tab">
+
+  <div class="tab_box">
+
+    <div class="sec_error_box"></div>
+    <div style="display: none;" class="alert alert-success" id="msg"></div>
+<form action="index/login.do" method="post" class="sec_login_error">
+        <div id="username">
+          <label>username：</label>
+          <input type="text" id="username" name="username" placeholder="username" nullmsg="用户名不能为空！" datatype="s6-18" errormsg="用户名范围在6~18个字符之间！" sucmsg="用户名验证通过！"/>
+        </div>
+        <div id="password">
+          <label>password&nbsp;&nbsp;&nbsp;：</label>
+          <input type="password" id="password" name="password" placeholder="password" nullmsg="密码不能为空！" datatype="*6-16" errormsg="密码范围在6~16位之间！" sucmsg="密码验证通过！"/>
+        </div>
+        <div id="type">
+        <label>type&nbsp;&nbsp;&nbsp;：</label>
+        <input type="radio" name="type" value="deliveryStation" checked/>delivery Station
+        <input type="radio" name="type" value="AMD"/>AMD
+        <input type="radio" name="type" value="UAV"/>UAV
+        <input type="radio" name="type" value="user"/>recipients
+        </div>
+         <div id="code">
+     </div>
+        <div id="login">
+          <button type="submit" id="btnLogin">log in</button>
+        </div>
+ </form>
+
+  </div>
+</div>
+
+<div class="bottom"> <a href="javascript:;" target="_blank"></a> <span></span><img width="13" height="16" src="images/copy_rignt_24.png" /></div>
+<div class="screenbg">
+  <ul>
+    <li><a href="javascript:;"><img src="images/uav.jpg"></a></li>
+   <!--  <li><a href="javascript:;"><img src="images/1.jpg"></a></li>
+    <li><a href="javascript:;"><img src="images/2.jpg"></a></li> -->
+  </ul>
+</div>
+</body>
+</html>
