@@ -7,6 +7,8 @@ EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and 
 3. School of Software and Electrical Engineering, Swinburne University of Technology, Melbourne, Australia
 4. Antwork Robotics Co., Ltm., Hangzhou, China
 * Developer member: Jia Xu, Xiao Liu, Xuejun Li, Yun Yang, Lei Zhang, Han Gao, Lina Gong
+# System Framework
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/Figure/Framework.jpg)
 
 # Full paper access
 Access from <A href="https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing">https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing</A>
