@@ -23,7 +23,7 @@ To implement authorization and authentication proposed in subsection 3.2, our sy
 * 3)	Integrity and traceability
 In order to resolve disputes between the Sender, Receiver or Middler, UAV delivery systems should have fast and accurate traceability. In our system, all transactions between the Sender and Receiver, between the Sender and Middler will be recorded in the Blockchain. Due to the decentralization, tamper-proof and consistency nature of Bloc
 # Full Paper Access
-Access from <A href="https://drive.google.com/file/d/1VNw8R__uJ0ZOR4Sg-AivGH4tR8YWgV5k/view?usp=sharing">https://drive.google.com/file/d/1VNw8R__uJ0ZOR4Sg-AivGH4tR8YWgV5k/view?usp=sharing</A>
+Access from <A href="https://drive.google.com/file/d/1VtUJY6IY4SOcLAz_690nTYgHxj3xCeQs/view?usp=sharing">https://drive.google.com/file/d/1VtUJY6IY4SOcLAz_690nTYgHxj3xCeQs/view?usp=sharing</A>
 
 ## IMPORTANT
 Please check the `improv` branch for latest changes. Master branch has been left intact until complete testing.
