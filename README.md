@@ -36,7 +36,7 @@ Please check the `improv` branch for latest changes. Master branch has been left
 *	Inside the project directory, initialize an empty Git repository with the following command
 * git init
 *	Add the Git repository of project as the origin remote.
-* git remote add origin <A href="https://github.com/GaoHan12306/face_recognition">https://github.com/GaoHan12306/face_recognition
+* git remote add origin <A href="https://github.com/ISEC-AHU/UAV-EXPRESS">https://github.com/ISEC-AHU/UAV-EXPRESS
 *	Pull the contents of the repository to your machine.
 * git pull origin master
 *	Run the example files (e.g.device_expr.py; edge_expr.py) to get started.
