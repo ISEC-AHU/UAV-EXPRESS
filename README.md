@@ -9,7 +9,7 @@ EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and 
 * Developer member: Jia Xu, Xiao Liu, Xuejun Li, Yun Yang, Lei Zhang, Han Gao, Lina Gong
 # System Framework
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Framework.jpg)
-# Framerk Evaluation
+# Framework Evaluation
 1. Energy consumption and makespan
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/energy.png)
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/makespan.png)
