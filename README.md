@@ -22,7 +22,7 @@ There are many unresolved problems in the existing UAV delivery systems based on
 To implement authorization and authentication proposed in subsection 3.2, our system stores UAV information by Blockchain and verifies the UAV delivery permission by querying the Blockchain and using our proposed secure communication scheme when the UAV requests for delivery and relay delivery. An unqualified UAV will not have delivery permission, and a compromised UAV with an Ethereum account will not be able to easily obtain the corresponding private key. Therefore, the system can identify malicious delivery UAVs through the smart contracts of Blockchain.
 * 3)	Integrity and traceability
 In order to resolve disputes between the Sender, Receiver or Middler, UAV delivery systems should have fast and accurate traceability. In our system, all transactions between the Sender and Receiver, between the Sender and Middler will be recorded in the Blockchain. Due to the decentralization, tamper-proof and consistency nature of Bloc
-# Full paper access
+# Full Paper Access
 Access from <A href="https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing">https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing</A>
 
 ## IMPORTANT
