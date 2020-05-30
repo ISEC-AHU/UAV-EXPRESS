@@ -9,7 +9,8 @@ EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and 
 * Developer member: Jia Xu, Xiao Liu, Xuejun Li, Yun Yang, Lei Zhang, Han Gao, Lina Gong
 # System Framework
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Framework.jpg)
-
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/UAVplayload.png)
+* The UAV payload results of the five methods are shown in Figure. As the number of tasks grows, the payload of all methods decreases. However, it can be seen that the UAV payload under our TOSS strategy is significantly higher than the other four strategies which means that our TOSS strategy can find the task offloading decision and scheduling plan with the lower energy consumption of the UAV under the given task deadline constraints. The lower energy consumption of UAV in executing task, transmitting data and idle status is, the lower weight of the battery it needs to carry. Therefore, the payload of the UAV is significantly increased by our TOSS strategy. For example, when the task number is 360, the UAV payload of our TOSS strategy is 12.7% higher than MAWOSS. It can be seen that our TOSS strategy can effectively improve the payload of the UAV in the MEC-based last-mile delivery scenario.
 # Full paper access
 Access from <A href="https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing">https://drive.google.com/file/d/147Mgz3cJPq2fukAAWeo4bCiUEvoIm4QI/view?usp=sharing</A>
 
