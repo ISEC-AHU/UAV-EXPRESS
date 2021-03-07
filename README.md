@@ -13,12 +13,15 @@
 # System Framework
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Framework.jpg)
 # The Autonomous Delivery Plan of Antwork Company
-![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/ADNET.jpg)
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/2.jpg)
 # The Distribution of UAV Airport and Base Station of Antwork Company
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Map.jpg)
 # Framework Evaluation
+1. Energy consumption and makespan
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/energy.png)
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/makespan.png)
 * The above illustration shows the results on the energy consumption and makespan of the UAV. The energy consumption of the ONLY-EDGE strategy is always the lowest. However, the gap between ONLY-EDGE and our MAWOSS strategy is small. For example, when the task number is 150, the energy consumption of MAWOSS is 3% lower than LOPRTC. However, if comparing their workflow makespan as shown in the next figure, we can find that the workflow makespan of ONLY-EDGE is much higher than MAWOSS. For example, when the task number is 150, the workflow task makespan of ONLY-EDGE is 14% higher than MAWOSS. This means ONLY-EDGE’s task offloading decision and scheduling plan may miss the given deadlines. In contrast, MAWOSS can always find the best task offloading decision and scheduling plan for reducing the energy consumption under the given deadlines.
-1. Security analysis and discussion
+2. Security analysis and discussion
 * Here, we discuss how our proposed solution can effectively satisfy those major security and system requirements.
 * 1)	High efficiency and robustness
 There are many unresolved problems in the existing UAV delivery systems based on Cloud computing. The high latency brought by centralized Cloud computing is intolerable for UAVs flying in high speed. The system is also vulnerable to single point of failure since it closely depends on the Cloud. In order to effectively reduce the delay and avoid the occurrence of a single point of failure, our proposed system adopts the MEC namely an End-Edge-Cloud architecture. Under this architecture, the real-time response requirement of UAVs can be met because the service requests can be accommodated by nearby Edge servers. In addition, the system also has high robustness as the UAV can continue the delivery process by seamlessly switching to other Edge servers when a certain nearby Edge server fails.
