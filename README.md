@@ -1,5 +1,8 @@
 # UAV-EXPRESS
-EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems
+* EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems
+* In this paper, we propose EXPRESS, a novel energy-efficient and secure framework based on mobile edge computing and blockchain technologies. We focus on computation and data (resource) management which are two of the most prominent components in this framework. The effectiveness of the EXPRESS framework is demonstrated through the implementation of a real-world UAV delivery system. As an open-source framework, EXPRESS can help researchers implement their own prototypes and test their computation and data management strategies in different smart systems. The demo video can be found at https://youtu.be/r3U1iU8tSmk.
+* An Energy-Aware Computation Management Strategy for MEC-based UAV Delivery System
+* This paper investigates the energy aware multi-UAV task computation management problem in MEC-based UAV delivery service system according to a realistic Autonomous Delivery Network (ADNET). Specifically, we propose a computation management strategy, namely, MEC-based Task Offloading and Scheduling Strategy (TOSS), to provide an integral approach covering both the static task offloading and scheduling algorithm, as well as the dynamic resource conflict resolution algorithm. Grounded on real-world scenarios, our experimental results show that TOSS is capable of achieving higher payload for UAVs by using minimum energy consumption, task makespan within the given constraints of the deadline, compared to the state-of-the-art.
 # Developer
 * Developer organization:
 1. ISEC laboratory, School of Computer Science and Technology, Anhui University, Hefei, China
@@ -9,6 +12,10 @@ EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and 
 * Developer member: Jia Xu, Xiao Liu, Xuejun Li, Yun Yang, Lei Zhang, Han Gao, Lina Gong
 # System Framework
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Framework.jpg)
+# The Autonomous Delivery Plan of Antwork Company
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/ADNET.jpg)
+# The Distribution of UAV Airport and Base Station of Antwork Company
+![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/Map.jpg)
 # Framework Evaluation
 1. Energy consumption and makespan
 ![image](https://github.com/ISEC-AHU/UAV-EXPRESS/blob/master/Figure/energy.png)
